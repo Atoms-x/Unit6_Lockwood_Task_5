@@ -1,7 +1,7 @@
 /*
 	Teacher: Dr. Tyson McMillan, Ph.D. COSC 1436 
   STUDENT (McMillanite): Chet Lockwood
-  Unit_6_Task_6
+  Unit_6_Task_5
   IDE: Repl.it
 */
 
@@ -16,7 +16,7 @@ using namespace std;
 void printArray(int array[], int);
 void averageTime(double array[], int);
 
-//Main Functions ************************************************************************************************
+//Main Functions **************************************************************************
 int main() 
 {
   int iterations = 0;
@@ -43,7 +43,7 @@ int main()
 
   return 0;
 }
-//Function Definitions ******************************************************************************************
+//Function Definitions ********************************************************************
 
 //Function to print the Array
 void printArray(int array[], int SIZE)
